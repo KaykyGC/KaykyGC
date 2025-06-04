@@ -1,5 +1,5 @@
 
-![Sunset Capsule](https://capsule-render.vercel.app/api?type=sunset&color=auto&height=120&section=header)
+![Gradient Capsule](https://capsule-render.vercel.app/api?type=gradient&color=0:79C2FF,100:A855F7&height=120&section=header)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Seja+Bem+vindo,+Meu+name+é+Kayky+Garcia;Tenho+21+anos;Sou+do+Brasil;Data+Scientist;:%29)](https://git.io/typing-svg)
 
